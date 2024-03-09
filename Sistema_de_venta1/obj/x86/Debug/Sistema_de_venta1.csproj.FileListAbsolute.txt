@@ -1,0 +1,11 @@
+C:\Users\Jean\Desktop\Programación\Sistema con C# y SQL\Sistema_de_venta1\Sistema_de_venta1\obj\x86\Debug\Sistema_de_venta1.Splash.resources
+C:\Users\Jean\Desktop\Programación\Sistema con C# y SQL\Sistema_de_venta1\Sistema_de_venta1\obj\x86\Debug\Sistema_de_venta1.Properties.Resources.resources
+C:\Users\Jean\Desktop\Programación\Sistema con C# y SQL\Sistema_de_venta1\Sistema_de_venta1\obj\x86\Debug\Sistema_de_venta1.csproj.GenerateResource.Cache
+C:\Users\Jean\Desktop\Programación\Sistema con C# y SQL\Sistema_de_venta1\Sistema_de_venta1\bin\Debug\Sistema_de_venta1.exe
+C:\Users\Jean\Desktop\Programación\Sistema con C# y SQL\Sistema_de_venta1\Sistema_de_venta1\bin\Debug\Sistema_de_venta1.pdb
+C:\Users\Jean\Desktop\Programación\Sistema con C# y SQL\Sistema_de_venta1\Sistema_de_venta1\obj\x86\Debug\Sistema_de_venta1.csprojResolveAssemblyReference.cache
+C:\Users\Jean\Desktop\Programación\Sistema con C# y SQL\Sistema_de_venta1\Sistema_de_venta1\obj\x86\Debug\Sistema_de_venta1.exe
+C:\Users\Jean\Desktop\Programación\Sistema con C# y SQL\Sistema_de_venta1\Sistema_de_venta1\obj\x86\Debug\Sistema_de_venta1.pdb
+C:\Users\Jean\Desktop\Programación\Sistema con C# y SQL\Sistema_de_venta1\Sistema_de_venta1\obj\x86\Debug\Sistema_de_venta1.Login.resources
+C:\Users\Jean\Desktop\Programación\Sistema con C# y SQL\Sistema_de_venta1\Sistema_de_venta1\obj\x86\Debug\Sistema_de_venta1.principal.resources
+C:\Users\Jean\Desktop\Programación\Sistema con C# y SQL\Sistema_de_venta1\Sistema_de_venta1\obj\x86\Debug\Sistema_de_venta1.Usuario.resources
